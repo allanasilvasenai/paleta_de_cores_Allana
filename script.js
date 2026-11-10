@@ -54,9 +54,9 @@ function rosa(){
 }
 function ciano(){
     tela.style.background = "cyan";
-    nomeCor.innerHTML = "Amarelo";
+    nomeCor.innerHTML = "Ciano";
 }
 function cinza(){
     tela.style.background = "grey";
-    nomeCor.innerHTML = "Amarelo";
+    nomeCor.innerHTML = "Cinza";
 }
